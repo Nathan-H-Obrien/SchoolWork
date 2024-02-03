@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1690664311 source:c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\palindrome_functions.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstring>
+	"Palindrome_Header.h"
+
+1690664296 c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\palindrome_header.h
+

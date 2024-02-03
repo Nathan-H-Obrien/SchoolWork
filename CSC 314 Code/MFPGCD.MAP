@@ -1,0 +1,12 @@
+
+ Start  Stop   Length Name                   Class
+ 00000H 000A0H 000A1H _TEXT                  CODE
+ 000A2H 00169H 000C8H _DATA                  DATA
+ 00170H 0026FH 00100H STACK                  STACK
+
+ Origin   Group
+ 000A:0   DGROUP
+
+MFPGCD.obj(MFPGCD.ASM) : error L2029: 'PUTDEC' : unresolved external
+MFPGCD.obj(MFPGCD.ASM) : error L2029: 'GETDEC' : unresolved external
+

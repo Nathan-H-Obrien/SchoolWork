@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1690313843 source:c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\program9_functions.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Program9_Header.h"
+
+1690312892 c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\program9_header.h
+
+1690313922 source:c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\program9_main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Program9_Header.h"
+
+1695058958 source:c:\users\bpo_b\onedrive - south dakota state university - sdsu\desktop\other\comp sci 2\code\program9_functions.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Program9_Header.h"
+
+1695058917 c:\users\bpo_b\onedrive - south dakota state university - sdsu\desktop\other\comp sci 2\code\program9_header.h
+
+1695059405 source:c:\users\bpo_b\onedrive - south dakota state university - sdsu\desktop\other\comp sci 2\code\program9_main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Program9_Header.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1689695970 source:c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\program8c_nho.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Room_C.h"
+
+1689693308 c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\room_c.h
+
+1689654085 source:c:\users\bpo_b\onedrive\desktop\school\comp sci 2\code\room_c.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Room_C.h"
+
+1689695970 source:c:\users\bpo_b\onedrive - south dakota state university - sdsu\desktop\other\comp sci 2\code\program8c_nho.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Room_C.h"
+
+1696365016 c:\users\bpo_b\onedrive - south dakota state university - sdsu\desktop\other\comp sci 2\code\room_c.h
+
+1689654085 source:c:\users\bpo_b\onedrive - south dakota state university - sdsu\desktop\other\comp sci 2\code\room_c.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Room_C.h"
+
